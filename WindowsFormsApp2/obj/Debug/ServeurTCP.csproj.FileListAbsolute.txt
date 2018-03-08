@@ -1,0 +1,42 @@
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\ServeurTCP.csprojResolveAssemblyReference.cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\ServeurTCP.csproj.GenerateResource.Cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\ServeurTCP.csproj.CoreCompileInputs.cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\LibGN.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\LibGN.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\LibGN.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\bin\Debug\LibGN.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\ServeurTCP.csprojResolveAssemblyReference.cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\ServeurTCP.csproj.GenerateResource.Cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\ServeurTCP.csproj.CoreCompileInputs.cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\Serveur\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\LibGN.dll
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\LibGN.pdb
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\ServeurTCP.csprojResolveAssemblyReference.cache
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\ServeurTCP.csproj.GenerateResource.Cache
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\ServeurTCP.csproj.CoreCompileInputs.cache
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

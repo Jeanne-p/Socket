@@ -1,0 +1,15 @@
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\obj\Debug\Methode.csproj.CoreCompileInputs.cache
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\bin\Debug\LibGN.dll
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\bin\Debug\LibGN.pdb
+C:\Users\Jeanne\source\repos\WindowsFormsApp3\ClassLibrary1\obj\Debug\Methode.csprojResolveAssemblyReference.cache
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\bin\Debug\LibGN.pdb
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\obj\Debug\Methode.csprojResolveAssemblyReference.cache
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\obj\Debug\Methode.csproj.CoreCompileInputs.cache
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Jeanne\Desktop\Socket Jeanne Paquet-Beaulieu\WindowsFormsApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
